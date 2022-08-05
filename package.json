@@ -1,0 +1,29 @@
+{
+  "name": "random-slug",
+  "version": "1.0.0",
+  "description": "Random adjective-noun generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etonomick/random-slug.git"
+  },
+  "keywords": [
+    "random",
+    "adjective",
+    "noun",
+    "slug",
+    "generator"
+  ],
+  "author": "Valery Stepanov <etonomick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etonomick/random-slug/issues"
+  },
+  "homepage": "https://github.com/etonomick/random-slug#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
